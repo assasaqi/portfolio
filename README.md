@@ -1,2 +1,5 @@
 # portfolio
-personal portfolio-html css javascript
+personal portfolio
+- html
+- css
+- javascript
