@@ -1,11 +1,4 @@
-# Hello, My name is Rasman
-# Welcome to my Github
-
-program lenguage
+Personal Portfolio version 1
 - html
 - css
 - javascript
-- react
-- vue
-- mysgl
-- nodejs
